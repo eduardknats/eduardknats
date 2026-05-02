@@ -18,18 +18,11 @@
 
 ### 🛠 Стек и инструменты:
 
-**Языки и технологии:**
+**Технологии и IDE:**
 <p align="left">
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-</p>
-
-**Среды разработки (IDEs):**
-<p align="left">
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev" />
+  </a>
 </p>
 
 ---
