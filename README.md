@@ -19,16 +19,18 @@
 ### 🛠 Стек и инструменты:
 
 **Языки и технологии:**
-
-![C](https://shields.io)
-![Java](https://shields.io)
-![Linux](https://shields.io)
-![PostgreSQL](https://shields.io)
+<p align="left">
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+</p>
 
 **Среды разработки (IDEs):**
-
-![VS Code](https://shields.io)
-![IntelliJ IDEA](https://shields.io)
+<p align="left">
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+</p>
 
 ---
 
