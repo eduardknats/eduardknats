@@ -8,37 +8,35 @@
 ### 💻 Основные проекты (Core):
 - ✅ **SimpleBashUtils** — Реализация базовых утилит Bash (cat, grep) на языке C.
 - ✅ **String+** — Собственная реализация библиотеки string.h с расширенным функционалом.
-- 🚧 **Decimal** — В процессе: разработка библиотеки для работы с типом Decimal (финансовые расчеты повышенной точности).
+- 🚧 **Decimal** — В процессе: разработка библиотеки для работы с типом Decimal (финансовые расчеты).
 
 ### 🏊‍♂️ Проекты бассейна (Piscine):
 - 🕹️ **Pong** — Классическая игра Pong на языке C (коллективный проект).
-- 🧬 **Game of Life** — Реализация клеточного автомата «Игра в жизнь» Джона Конвея.
+- 🧬 **Game of Life** — Реализация клеточного автомата «Игра в жизнь».
 
 ---
 
 ### 🛠 Стек и инструменты:
 
-**Технологии и IDE:**
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev" />
-  </a>
-</p>
+**Языки и технологии:**
+- 🟦 **C** (System Programming, Makefile)
+- ☕ **Java** (Backend, Collections, Streams)
+- 🐧 **Linux** (Bash, SSH, Env)
+- 🐘 **PostgreSQL** (SQL, Database design)
+
+**Среды разработки (IDEs):**
+- 💻 **Visual Studio Code**
+- 🧠 **IntelliJ IDEA**
 
 ---
 
-### 📈 Статистика и ссылки:
+### 📈 Статистика и контакты:
 
-<p align="center">
-  <img width="48%" src="https://vercel.app" />
-  <img width="48%" src="https://vercel.app" />
-</p>
-
-- 🎓 **[Мой профиль на Stepik](https://stepik.org)** — курсы по алгоритмам, структурам данных и Java.
+- 🎓 **[Мой профиль на Stepik](https://stepik.org)** — курсы по алгоритмам и Java.
 - ✈️ **Telegram:** [@CDECDCKEV](https://t.me)
 
 ---
 
 <p align="center">
-  <img src="https://vercel.app" />
+  <i>"Code is like humor. When you have to explain it, it’s bad."</i>
 </p>
