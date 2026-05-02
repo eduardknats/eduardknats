@@ -21,6 +21,7 @@
 **Языки и технологии:**
 - 🟦 **C** (System Programming, Makefile)
 - ☕ **Java** (Backend, Collections, Streams)
+- 🐳 **Docker** (Containerization, Docker Compose)
 - 🐧 **Linux** (Bash, SSH, Env)
 - 🐘 **PostgreSQL** (SQL, Database design)
 
