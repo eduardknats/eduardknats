@@ -1,43 +1,24 @@
 # Привет! Я Эдуард 👋
-### Студент «Школы 21» | Будущий Java Backend Developer
 
-Я прохожу основной путь обучения в «Школе 21». Начал с глубокого изучения языка C и системного программирования, сейчас активно двигаюсь в сторону Java Backend разработки.
+### Java Backend Developer
 
----
+Активно развиваюсь в Java Backend разработке, опираясь на базу системного программирования на C («Школа 21»).
 
-### 💻 Основные проекты (Core):
-- ✅ **SimpleBashUtils** — Реализация базовых утилит Bash (cat, grep) на языке C.
-- ✅ **String+** — Собственная реализация библиотеки string.h с расширенным функционалом.
-- 🚧 **Decimal** — В процессе: разработка библиотеки для работы с типом Decimal (финансовые расчеты).
+### 🛠 Стек технологий:
 
-### 🏊‍♂️ Проекты бассейна (Piscine):
-- 🕹️ **Pong** — Классическая игра Pong на языке C (коллективный проект).
-- 🧬 **Game of Life** — Реализация клеточного автомата «Игра в жизнь».
+*   ☕ **Java** (Backend, Collections, Streams)
+*   🟦 **C** (System Programming, Makefile)
+*   🐳 **Docker** (Containerization)
+*   🐧 **Linux** (Bash)
+*   🐘 **PostgreSQL**
 
----
+### 💻 Основные проекты:
 
-### 🛠 Стек и инструменты:
+*   ✅ **SimpleBashUtils** (C, Bash)
+*   ✅ **String+** (C)
+*   🚧 **Decimal** (C)
 
-**Языки и технологии:**
-- 🟦 **C** (System Programming, Makefile)
-- ☕ **Java** (Backend, Collections, Streams)
-- 🐳 **Docker** (Containerization, Docker Compose)
-- 🐧 **Linux** (Bash, SSH, Env)
-- 🐘 **PostgreSQL** (SQL, Database design)
+### 📈 Контакты:
 
-**Среды разработки (IDEs):**
-- 💻 **Visual Studio Code**
-- 🧠 **IntelliJ IDEA**
-
----
-
-### 📈 Статистика и контакты:
-
-- 🎓 **[Мой профиль на Stepik](https://stepik.org)** — курсы по алгоритмам и Java.
-- ✈️ **Telegram:** [@CDECDCKEV](https://t.me)
-
----
-
-<p align="center">
-  <i>"Code is like humor. When you have to explain it, it’s bad."</i>
-</p>
+*   ✈️ **Telegram:** [@CDECDCKEV](https://t.me)
+*   📧 **Email:** [cdecdckev@gmail.com](mailto:cdecdckev@gmail.com)
