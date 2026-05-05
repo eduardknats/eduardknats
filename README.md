@@ -14,9 +14,14 @@
 
 ### 💻 Основные проекты:
 
-*   ✅ **SimpleBashUtils** (C, Bash)
-*   ✅ **String+** (C)
-*   🚧 **Decimal** (C)
+**Backend & Utilities:**
+*   ✅ **SimpleBashUtils** (C, Bash) — Реализация базовых утилит Linux.
+*   ✅ **String+** (C) — Собственная библиотека для работы со строками.
+*   🚧 **Decimal** (C) — Реализация типа decimal.
+
+**Games & Logic:**
+*   🎮 **Pong** (C) — Классическая аркадная игра.
+*   🎮 **Game of Life** (C) — Реализация клеточного автомата Конвея.
 
 ### 📈 Контакты:
 
